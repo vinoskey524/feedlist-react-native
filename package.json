@@ -1,0 +1,53 @@
+{
+  "name": "@vinoskey524/feedlist-react-native",
+  "module": "main.ts",
+  "type": "module",
+  "exports": {
+    "import": {
+      "types": "./dist/main.d.ts",
+      "default": "./dist/main.mjs"
+    }
+  },
+  "types": "./dist/main.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinoskey524/feedlist-react-native.git"
+  },
+  "author": "Hamet Kévin E. ODOUTAN - @vinoskey524",
+  "bugs": {
+    "url": "https://github.com/vinoskey524/feedlist-react-native/issues"
+  },
+  "homepage": "https://package524.vercel.app",
+  "license": "MIT",
+  "keywords": [
+    "feedlist",
+    "feed",
+    "list",
+    "render",
+    "react",
+    "react-native",
+    "native",
+    "preact",
+    "javascript",
+    "typescript",
+    "library",
+    "software",
+    "latest",
+    "new"
+  ],
+  "scripts": {
+    "b": "clear && tsup src/main.tsx --format esm --dts && tsx esbuild.config.js",
+    "p": "clear && npm publish --access public",
+    "f": "clear && npm info @vinoskey524/feedlist-react-native"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "esbuild": "0.25.9",
+    "tsup": "^8.5.0",
+    "tsx": "^4.20.6"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0",
+    "react-native": ">=0.72.0"
+  }
+}

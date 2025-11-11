@@ -1,0 +1,17 @@
+.yarn
+node_modules
+dist/main.js
+src
+.DS_Store
+
+.env
+.yarnrc.yml
+.editorconfig
+.gitattributes
+.gitignore
+.pnp.*
+tsup.config.ts
+esbuild.config.js
+
+tsconfig.json
+yarn.lock
