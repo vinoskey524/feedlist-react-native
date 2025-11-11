@@ -1,6 +1,6 @@
 .yarn
 node_modules
-dist/main.js
+dist/main.mjs
 src
 .DS_Store
 
