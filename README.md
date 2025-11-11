@@ -2,6 +2,8 @@
 
 A highly efficient and high-performance feeds renderer, designed for React and React Native (Bare and Expo).
 
+[Click to access the **React** version’s source code.](https://github.com/vinoskey524/feedlist-react)
+
 ## Table of contents
 
 - [Installation](#installation)
