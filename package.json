@@ -1,16 +1,16 @@
 {
   "name": "@vinoskey524/feedlist-react-native",
-  "version": "1.0.0",
-  "module": "main.ts",
+  "version": "1.0.3",
   "type": "module",
   "description": "A highly efficient and high-performance feeds renderer, designed for React Native (Bare and Expo).",
+  "main": "./dist/main.mjs",
+  "types": "./dist/main.d.ts",
   "exports": {
     "import": {
       "types": "./dist/main.d.ts",
       "default": "./dist/main.mjs"
     }
   },
-  "types": "./dist/main.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vinoskey524/feedlist-react-native.git"
@@ -50,6 +50,7 @@
   },
   "peerDependencies": {
     "typescript": "^5.0.0",
+    "react": ">=18",
     "react-native": ">=0.72.0"
   }
 }
