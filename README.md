@@ -2,6 +2,8 @@
 
 A highly efficient and high-performance feeds renderer, designed for React and React Native (Bare and Expo).
 
+[Official Documentation](https://package524.vercel.app)
+
 [Click to access the **React** version’s source code.](https://github.com/vinoskey524/feedlist-react)
 
 ## Table of contents
