@@ -11,6 +11,7 @@ A highly efficient and high-performance feeds renderer, designed for React and R
 - [Installation](#installation)
 - [What's feedlist](#whats-feedlist)
 - [Features](#features)
+- [Demo](#demo)
 - [Component & Props](#component--props)
 - [Hooks](#hooks)
     - [useIsMounted](#useIsMounted)
@@ -83,6 +84,13 @@ FeedList allows you to display a list of dynamic content (feeds) in both web (Re
 - Designed for **infinite scrolling**.
 
 - Optimized for performance and efficient rendering.
+
+## Demo 
+
+<img src="assets/demo.png" alt="logo" width="500">
+
+[Click to access the Expo-based repo ✨](https://github.com/vinoskey524/DemoFeedList)
+
 
 ## Component & Props
 
