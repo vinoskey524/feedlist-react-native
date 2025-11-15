@@ -1,6 +1,6 @@
 {
   "name": "@vinoskey524/feedlist-react-native",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "type": "module",
   "description": "A highly efficient and high-performance feeds renderer, designed for React Native (Bare and Expo).",
   "main": "./dist/main.js",

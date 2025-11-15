@@ -87,7 +87,7 @@ FeedList allows you to display a list of dynamic content (feeds) in both web (Re
 
 ## Demo 
 
-<img src="assets/demo.png" alt="logo" width="500">
+<img src="assets/demo.png" alt="logo" width="320">
 
 [Click to access the Expo-based repo ✨](https://github.com/vinoskey524/DemoFeedList)
 
